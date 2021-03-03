@@ -3,8 +3,8 @@
 " Maintainer: Chaos Language Development Authority
 " Author: Noah Altunian
 " URL: https://github.com/chaos-lang/chaos.vim
-" Latest Revision: 2 Mar 2021
-" Version: 0.0.1
+" Latest Revision: 3 Mar 2021
+" Version: 0.0.2
 
 autocmd BufNewFile,BufRead *.kaos set filetype=chaos
 
